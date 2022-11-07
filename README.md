@@ -1,7 +1,8 @@
-# Responsive-Web-Design
-Responsive Web Design Cert
+<h2>Responsive Web Design Cert</h2>
 
-Cat Photo app
-Css Colour Markers
+<ul>
+  <li> Cat Photo app</li>
+  <li> Css Colour Markers</li>
+</ul>
 
-Each project displays furthur use of tasks completed.
+<p>Each project displays furthur use of tasks completed.</p>
