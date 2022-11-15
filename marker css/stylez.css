@@ -13,15 +13,17 @@ h1 {
   margin: 10px auto;
 }
 
-//linear gradient can be used to transition color between them. 3 arguements can be used with the direction being the first
+//linear gradient can be used to transition color between them. 3 arguements can be used with the direction being the first. 
 .red {
-  background: linear-gradient(90deg, rgb(255, 0, 0), rgb(0, 255, 0), rgb(0, 0, 255));
+  background: linear-gradient(rgb(122, 74, 14), rgb(245, 62, 113), rgb(162, 27, 27));
 }
 
+//using hex to change gradient.
 .green {
-  background-color: #007F00;
+  background: linear-gradient(#55680D, #71F53E, #116C31);
 }
 
+//using hue sat light to change gradient
 .blue {
-  background-color: hsl(240, 100%, 50%);
+  background: linear-gradient(hsl(186, 76%, 16%), hsl(223, 90%, 60%), hsl(240, 56%, 42%));
 }
