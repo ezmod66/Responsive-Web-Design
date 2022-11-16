@@ -2,8 +2,8 @@
 
 <ul>
   <li> Cat Photo app</li>
-  <li> Css Colour Markers(Finish 13/11/2022)</li>
-  <li> Registration Form (Start tomorrow 13/11/2022)</li>
+  <li> Css Colour Markers</li>
+  <li> Registration Form </li>
   <li>Section Project ()</li>
 </ul>
 
